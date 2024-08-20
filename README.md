@@ -1,9 +1,9 @@
-## Desafio de Projejo: Design Patterns com Java
+## 🧩 Desafio de Projeto: Design Patterns com Java
 
 ### 📜 Descrição:
 Este `Desafio de Projeto` foi proposto pela `DIO - Digital Innovation One` inicialmente em `Santander Bootcamp 2023 - Backend Java` e posteriormente no `Bootcamp Claro - Java com Spring Boot`.
 
-Este Projeto tem o objetivo de explorar os conceitos de `Padrões de Projeto` na prática utilizando a linguagem pura `Java`. É implementado um sistema simples para aplicação de descontos em uma loja, fazendo com que cadas padrão complemente outro, utilizando o `Padrão Criacional` `Singleton` para gerar uma unica instancia de `Gerenciamento de Pedidos`, `Padrão Compotamental` `Strategy` para definir os descontos de 10% e 15% a serem aplicados e `Padrão Estrutural` `Facade` para simplificar a utilização das classes que implementam os padrões `Singleton`e `Strategy`
+Este Projeto tem o objetivo de explorar os conceitos de `Padrões de Projeto` na prática utilizando a linguagem pura `Java`. É implementado um sistema simples para aplicação de descontos em uma loja, fazendo com que cadas padrão complemente outro, utilizando o `Padrão Criacional` `Singleton` para gerar uma única instância de `Gerenciamento de Pedidos`, `Padrão Comportamental` `Strategy` para definir os descontos de 10% e 15% a serem aplicados e `Padrão Estrutural` `Facade` para simplificar a utilização das classes que implementam os padrões `Singleton`e `Strategy`
 
 
 ### ⏯ Como utilizar:
